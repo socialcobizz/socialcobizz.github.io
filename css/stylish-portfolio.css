@@ -173,8 +173,7 @@ hr.small {
 .logo {
     margin-top: 30px;
     margin-bottom: 0px;
-    max-height: 230px;
-    max-width: 1000px;
+    max-width: 75%;
 }
 
 /* About */
