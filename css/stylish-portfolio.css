@@ -225,9 +225,33 @@ hr.small {
     opacity: 0.8;
 }
 
+.img-partenaire-frame {
+  height: 25px;
+  white-space: nowrap;
+
+  text-align: center; margin: 1em 0;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.img-ares {
+    margin-top: 0.6em;
+    vertical-align: middle;
+    max-height: 25px;
+}
+
+.img-investir {
+    vertical-align: middle;
+    max-height: 30px;
+}
+
 .img-partenaire {
-  max-height: 200px;
-  max-width: 161px;
+    vertical-align: middle;
+    max-height: 25px;
 }
 
 
